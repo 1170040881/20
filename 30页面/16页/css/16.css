@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+
+header {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 0.5px solid rgba(0, 0, 0, 0.5); }
+  header .hea-le {
+    width: 30%;
+    float: left; }
+    header .hea-le img {
+      width: 100%;
+      margin-left: 9px;
+      margin-top: 6px; }
+  header .hea-2 {
+    width: 40%;
+    float: left;
+    text-align: center; }
+    header .hea-2 p {
+      font-size: 20px; }
+  header .hea-ri {
+    width: 30%;
+    height: 100%;
+    float: left; }
+    header .hea-ri ul {
+      width: 100%;
+      height: 100%;
+      margin-top: -0.3rem;
+      list-style: none; }
+      header .hea-ri ul li {
+        width: 30%;
+        height: 100%;
+        float: right; }
+        header .hea-ri ul li span {
+          font-size: 0.4rem;
+          color: #999999; }
+        header .hea-ri ul li p {
+          font-size: 0.15rem;
+          color: #999999; }
+
+.a1 {
+  width: 100%; }
+  .a1 img {
+    width: 100%; }
+
+.p1 {
+  font-size: 20px;
+  margin-top: 0.36rem;
+  text-align: center; }
+
+.article {
+  text-indent: 1.5em;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  width: 100%;
+  font-size: 0.28rem; }
+  .article p {
+    font-size: 16px;
+    margin: 0.2rem; }
+
+.a2 {
+  width: 100%; }
+  .a2 img {
+    width: 100%; }
+
+.tel {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.28rem;
+  margin: 0.2rem 0; }
+  .tel .icon-hot-line {
+    color: #48CD9B;
+    font-size: 0.28rem; }
+
+.x1 {
+  width: 100%;
+  display: flex; }
+  .x1 li {
+    width: 25%;
+    text-align: center;
+    margin-top: 0.2rem;
+    font-size: 0.3rem; }
+
+.tiao {
+  width: 100%;
+  height: 0.2rem;
+  margin-top: 0.2rem;
+  background: #F4F4F4; }
+
+/*# sourceMappingURL=16.css.map */

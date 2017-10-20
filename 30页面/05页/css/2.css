@@ -1,0 +1,195 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+
+header {
+  width: 100%;
+  height: 4rem; }
+  header .hea-le {
+    width: 50%;
+    height: 100%;
+    float: left; }
+    header .hea-le img {
+      width: 6.86rem;
+      height: 2.8rem;
+      margin-top: 12px;
+      margin-left: 18px; }
+  header .hea-ri {
+    width: 50%;
+    height: 100%;
+    float: left; }
+    header .hea-ri ul {
+      width: 100%;
+      height: 100%;
+      list-style: none; }
+      header .hea-ri ul li {
+        width: 20.3333%;
+        height: 100%;
+        float: right;
+        text-align: center; }
+        header .hea-ri ul li span {
+          font-size: 1.1rem;
+          color: #999999; }
+        header .hea-ri ul li p {
+          font-size: 0.7rem;
+          color: #999999; }
+        header .hea-ri ul li .p1 {
+          margin-top: 0.85rem; }
+
+.a1 {
+  width: 100%; }
+  .a1 img {
+    width: 100%; }
+
+.a2 {
+  width: 90%;
+  margin-top: 0.5rem;
+  height: 2rem;
+  line-height: 2rem;
+  background: #F4F4F4;
+  text-align: center;
+  margin: 0 auto; }
+  .a2 p {
+    font-size: 0.75rem; }
+
+.a3 {
+  width: 100%;
+  text-align: center; }
+  .a3 p {
+    margin-top: 1.125rem;
+    font-size: 1.125rem; }
+  .a3 div {
+    display: flex;
+    justify-content: center; }
+    .a3 div p {
+      font-size: 0.75rem;
+      color: #999999; }
+    .a3 div img {
+      width: 1rem;
+      margin-top: 1rem;
+      height: 1rem; }
+
+.a4 {
+  width: 100%;
+  flex-wrap: wrap;
+  display: flex; }
+  .a4 div {
+    width: 22%;
+    border: 1px solid #EAEAEA;
+    margin-left: 0.7rem;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 0.5626rem; }
+    .a4 div p {
+      font-size: 0.75rem;
+      color: #EAEAEA; }
+
+.a5 {
+  width: 100%;
+  margin-top: 1.125rem; }
+  .a5 div {
+    width: 70%;
+    margin: 0 auto; }
+    .a5 div p {
+      font-size: 0.75rem; }
+    .a5 div img {
+      margin-top: 0.9625rem;
+      width: 100%; }
+
+.a6 {
+  width: 100%;
+  color: #2BB280; }
+  .a6 p {
+    width: 90%;
+    height: 2.185rem;
+    line-height: 2.185rem;
+    text-align: center;
+    border: 1px solid;
+    border-radius: 5px;
+    margin: 0 auto;
+    font-size: 1.125rem; }
+
+.a7 {
+  width: 100%;
+  display: flex;
+  justify-content: space-around; }
+
+.d8 {
+  height: 35rem;
+  border-bottom: 0.7rem solid #f4f4f4; }
+  .d8 ul {
+    width: 100%;
+    height: 21rem; }
+    .d8 ul li {
+      width: 92%;
+      height: 33.33333%;
+      padding-bottom: 1.5rem;
+      margin: 0 auto; }
+      .d8 ul li .d8-1 {
+        width: 35%;
+        float: left;
+        height: 100%; }
+        .d8 ul li .d8-1 img {
+          width: 100%;
+          height: 100%; }
+      .d8 ul li .d8-2 {
+        width: 60%;
+        float: right;
+        height: 100%; }
+        .d8 ul li .d8-2 p {
+          font-size: 1.3rem; }
+        .d8 ul li .d8-2 span {
+          margin-top: 0.5rem;
+          display: inline-block; }
+        .d8 ul li .d8-2 .span1 {
+          font-size: 1rem; }
+        .d8 ul li .d8-2 .span2 {
+          font-size: 1rem;
+          margin-left: -0.3rem; }
+        .d8 ul li .d8-2 .span3 {
+          font-size: 1.3rem;
+          margin-left: 0.5rem; }
+
+.box9 {
+  height: 11rem; }
+  .box9 div {
+    width: 92%;
+    height: 90%;
+    margin: 0 auto;
+    padding-top: 1.2rem; }
+    .box9 div p {
+      font-size: 1rem;
+      text-indent: 2rem;
+      line-height: 2.2rem; }
+
+footer {
+  width: 100%;
+  height: 6rem;
+  margin-top: 0.8rem;
+  text-align: center;
+  border-top: 0.7rem solid #f4f4f4;
+  padding-top: 1rem; }
+  footer div {
+    width: 100%;
+    height: 2rem; }
+    footer div p {
+      float: left;
+      margin-left: 5.5rem;
+      color: #39C893;
+      margin-top: 0.1rem; }
+    footer div span {
+      font-size: 1.1rem;
+      float: left; }
+  footer ul {
+    width: 100%;
+    height: 4rem; }
+    footer ul li {
+      width: 25%;
+      height: 100%;
+      text-align: center;
+      float: left;
+      margin-top: 1rem;
+      font-size: 1.1rem; }
+
+/*# sourceMappingURL=2.css.map */
